@@ -10,5 +10,7 @@
 
 ![My helpful screenshot](/assets/images/BlogRLSError.jpg)
 
+> ![](assets/images/BlogRLSError.jpg)
+
 **Error Message**
 {: .notice--danger}
