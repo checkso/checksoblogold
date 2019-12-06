@@ -14,3 +14,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/azure-analysis-service-id-cannot-be-specified-for-azure-analysis-service-role-member.md
