@@ -2,7 +2,8 @@
 title: 'Azure Analysis Service: "ID cannot be specified for Azure Analysis Service
   role member: "'
 date: 2019-12-05T23:00:00.000+00:00
-categories: []
+categories:
+- blog
 tags:
 - Error
 - Azure Analysis Service
@@ -15,7 +16,7 @@ After trying to configure Role Level Security as described in the following arti
 
 We experienced the following issue when we were trying to add any Azure AD user. 
 
-ID cannot be specified for Azure Analysis Service role member: user@domain.com{: .notice--danger}
+{: ID cannot be specified for Azure Analysis Service role member: user@domain.com .notice--danger}
 
 ![](assets/images/BlogRLSError2.jpg)
 
