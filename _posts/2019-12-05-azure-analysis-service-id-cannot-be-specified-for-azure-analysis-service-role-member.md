@@ -15,7 +15,7 @@ After trying to configure Role Level Security as described in the following arti
 
 We experienced the following issue when we were trying to add any Azure AD user. 
 
-ID cannot be specified for Azure Analysis Service role member: user@domain.com .notice--danger
+ID cannot be specified for Azure Analysis Service role member: user@domain.com{: .notice--danger}
 
 ![](assets/images/BlogRLSError2.jpg)
 
