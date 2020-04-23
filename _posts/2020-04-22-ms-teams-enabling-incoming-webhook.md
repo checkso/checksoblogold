@@ -19,7 +19,7 @@ So the "Incoming Webhook" App is registered as an 3rd Party App and needs to be 
 
 After allowing 3rd Party Apps, we were able to create the "Incoming Webhook", but it was not working with the error:
 
-Connectors have been disabled for client - SkypeSpaces. Please contact your administrator
+> Connectors have been disabled for client - SkypeSpaces. Please contact your administrator
 
 ![](assets/images/error.png)
 
