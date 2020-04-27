@@ -33,7 +33,7 @@ In our case we didn't use the EWS Allow List
 
 ![](assets/images/Get-OrgConfig1.png)
 
-2. **Allow sideloading of external apps / Custom Apps**
+1. **Allow sideloading of external apps / Custom Apps**
 
 ![](assets/images/customapps-1.png)
 
@@ -41,7 +41,7 @@ Within the Org-wide app settings "Allow interaction with custom apps" must be en
 
 Also this was already enabled in our case.
 
-3. **Organization Configuration - ConnectorsEnabled**
+1. **Organization Configuration - ConnectorsEnabled**
 
 ConnectorsEnabled was set to **False** in our tenant. This can be set to **True** easily:
 
