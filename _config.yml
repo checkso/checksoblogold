@@ -68,6 +68,10 @@ author:
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/user?u=42953751"
+    - label: "BuyMeACoffee"
+      icon: "https://www.buymeacoffee.com/"
+      url: "https://www.buymeacoffee.com/pscons"
+
 
 footer:
   links:
@@ -80,7 +84,10 @@ footer:
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/user?u=42953751"
-
+    - label: "BuyMeACoffee"
+      icon: "https://www.buymeacoffee.com/"
+      url: "https://www.buymeacoffee.com/pscons"
+      
 defaults:
   # _posts
   - scope:
