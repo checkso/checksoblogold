@@ -65,8 +65,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/checkso"
-    - label: "Patron"
-      icon: "fab fa-fw fa-patron"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/user?u=42953751"
 
 footer:
@@ -77,8 +77,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/checkso"
-    - label: "Patron"
-      icon: "fab fa-fw fa-patron"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/user?u=42953751"
 
 defaults:
